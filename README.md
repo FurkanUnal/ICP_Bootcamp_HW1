@@ -1,0 +1,1 @@
+This is a basic ToDo app created on Rust for the ICP Bootcamp Homework 1.
